@@ -1,3 +1,5 @@
 11 # Need if statement added
 if num == 11:
 	raise Exception
+else:
+	pass
