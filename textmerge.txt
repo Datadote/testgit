@@ -3,3 +3,4 @@ if num == 11:
 	raise Exception
 else:
 	pass
+print('hi')
