@@ -9,3 +9,4 @@ local change
 global change
 
 local chg2
+global2 try push first
