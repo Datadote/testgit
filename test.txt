@@ -7,3 +7,5 @@ repo change
 
 local change
 global change
+
+global2 try push first
