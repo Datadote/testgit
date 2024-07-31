@@ -1,1 +1,3 @@
 can you modify commit title on pull request and it uses that vs local commit msg?
+
+add new text from new branch
