@@ -3,3 +3,5 @@ can you modify commit title on pull request and it uses that vs local commit msg
 add new text from new branch
 
 try squash merge
+
+commit 2
