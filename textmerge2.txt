@@ -1,3 +1,5 @@
 t2 
 
 squash 3
+
+add 2
