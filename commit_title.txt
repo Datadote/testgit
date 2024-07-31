@@ -5,3 +5,5 @@ add new text from new branch
 try squash merge
 
 commit 2
+
+try squash1
