@@ -7,3 +7,5 @@ try squash merge
 commit 2
 
 try squash1
+
+try squash2
