@@ -16,3 +16,7 @@ squash comment can change title?
 need to save title?
 
 chg name b4 reg
+
+chg1
+chg2
+chg3
