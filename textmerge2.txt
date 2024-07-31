@@ -5,3 +5,8 @@ squash 3
 try chg commit msg
 
 tateat
+
+fdafda
+text2
+text3
+[DOC] final commit
