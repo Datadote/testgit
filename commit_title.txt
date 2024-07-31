@@ -1,1 +1,2 @@
 can you modify commit title on pull request and it uses that vs local commit msg?
+check2 without mods, does a new commit happen?
