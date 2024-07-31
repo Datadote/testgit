@@ -7,3 +7,4 @@ try chg commit msg
 tateat
 
 fdafda
+text2
