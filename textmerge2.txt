@@ -25,3 +25,5 @@ ch1
 
 reg merge1
 reg merge2
+
+squash1
