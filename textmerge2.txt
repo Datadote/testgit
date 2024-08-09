@@ -22,3 +22,5 @@ chg2
 chg3
 
 ch1
+
+reg merge1
