@@ -27,3 +27,4 @@ reg merge1 x reb1
 reg merge2 x reb2
 
 test_Draft
+draft2
