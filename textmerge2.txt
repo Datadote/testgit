@@ -23,5 +23,5 @@ chg3
 
 ch1
 
-reg merge1
+reg merge1 x
 reg merge2
