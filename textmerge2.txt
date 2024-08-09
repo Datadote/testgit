@@ -27,3 +27,4 @@ reg merge1
 reg merge2
 
 squash1
+squash2
